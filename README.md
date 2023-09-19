@@ -25,7 +25,7 @@ Vous connaissez déjà les bases de Git. Si ce n'est pas le cas, vous pouvez vou
 
 La première chose à faire est de créer un fork de ce dépôt. Pour ce faire, rendez-vous sur le lien suivant :
 
-<https://classroom.github.com/a/MVDK521d>
+<https://classroom.github.com/a/7f50O22z>
 
 GitHub va vous créer un dépôt contenant un fork de ce dépôt. Vous apparaîtrez automatiquement comme contributeur de ce projet pour y pousser votre travail.
 
