@@ -21,7 +21,7 @@ Les exercices de ce document sont une adaptation de certains [Coding Kata du sit
 
 ### Création de votre fork
 
-Vous connaissez déjà les bases de Git. Si ce n'est pas le cas, vous pouvez vous entraîner avec  [l'atelier Git](https://github.com/CraftLR/workshop-git).
+Vous connaissez déjà les bases de Git. Si ce n'est pas le cas, vous pouvez vous entraîner avec [l'atelier Git](https://github.com/CraftLR/workshop-git).
 
 La première chose à faire est de créer un fork de ce dépôt. Pour ce faire, rendez-vous sur le lien suivant :
 
@@ -29,7 +29,7 @@ La première chose à faire est de créer un fork de ce dépôt. Pour ce faire, 
 
 GitHub va vous créer un dépôt contenant un fork de ce dépôt. Vous apparaîtrez automatiquement comme contributeur de ce projet pour y pousser votre travail.
 
-Le travail de cet atelier se fera en binôme. Vous aurez donc deux dépôts sur lequel vous devrez poussez votre travail. Vous pouvez très bien travailler sur un seul dépôt et pousser sur le second uniquement quand vous avez terminé.
+Le travail de cet atelier se fera en binôme. Vous aurez donc deux dépôts sur lequel vous devrez pousser votre travail. Vous pouvez très bien travailler sur un seul dépôt et pousser sur le second uniquement quand vous avez terminé.
 
 ### Test Driven Development
 
